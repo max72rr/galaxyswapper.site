@@ -1,0 +1,1 @@
+!function(e,t,a,g,n,o,c){e[n]||(e[n]=e[n]||function(){(e.dataLayer=e.dataLayer||[]).push(arguments)},o=t.createElement(a),c=t.getElementsByTagName(a)[0],o.async=1,o.src="https://www.googletagmanager.com/gtag/js?id=G-HJEX45D3FS",c.parentNode.insertBefore(o,c))}(window,document,"script",0,"gtag"),gtag("js",new Date),gtag("config","G-HJEX45D3FS");
